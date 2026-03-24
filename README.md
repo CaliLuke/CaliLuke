@@ -16,7 +16,7 @@ Rapid Prototyping: Writing code to validate product hypotheses, test API capabil
 
 Senior Product Manager with 15+ years of experience specializing in AI and software development, with a track record at Google, Meta, and LinkedIn.
 
-Writing & Thinking: I document my projects, product frameworks, and strategic thinking at (luckymethod.com)[www.luckymethod.com].
+Writing & Thinking: I document my projects, product frameworks, and strategic thinking at [luckymethod.com](www.luckymethod.com).
 
 Building: I'm an active maker outside of software, splitting my time between woodworking, 3D printing, and CNC machining.
 
