@@ -16,9 +16,7 @@ Most of my hands-on work here revolves around prototyping, self-hosting models, 
 
 **Token-Efficient Diagnostics**: [remedy](https://github.com/CaliLuke/remedy) – A Go library for structured business errors. It packages HTTP status, machine-readable codes, and inline recovery guidance directly into the error, helping agentic systems self-correct without wasting tokens on follow-up retries.
 
-Infrastructure & Self-Hosting: Blacknas – A custom homelab for deploying, testing, and understanding local AI models, hardware, and network architecture in a sandboxed environment.
-
-Infrastructure & Self-Hosting: Running a custom homelab for deploying, testing, and understanding local AI models, hardware, and network architecture.
+**Infrastructure & Self-Hosting**: Running a custom homelab for deploying, testing, and understanding local AI models, hardware, and network architecture.
 
 ## About Me
 
