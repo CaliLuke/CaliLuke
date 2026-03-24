@@ -8,13 +8,13 @@ Most of my hands-on work here revolves around prototyping, self-hosting models, 
 
 **Applied AI & Knowledge Graphs**: Building [AutoK](https://www.autok.dev/), a personal knowledge-graph project to explore data relationships, memory, and practical LLM utility.
 
-**Frameworks & API Generation**: loom – An AI-first, design-first API framework in Go (forked from Goa). It generates strict OpenAPI 3.1 contracts and handles multi-protocol transport (HTTP, gRPC, JSON-RPC) to provide trustworthy specs for agents and client generators.
+**Frameworks & API Generation**: [loom](https://github.com/CaliLuke/loom) – An AI-first, design-first API framework in Go (forked from Goa). It generates strict OpenAPI 3.1 contracts and handles multi-protocol transport (HTTP, gRPC, JSON-RPC) to provide trustworthy specs for agents and client generators.
 
-**Agentic Runtimes & Tooling**: loom-mcp – A runtime and code generator leveraging the Model Context Protocol (MCP) to define agents, toolsets, and registries, handling everything from planning to durable execution.
+**Agentic Runtimes & Tooling**: [loom-mcp](https://github.com/CaliLuke/loom-mcp) – A runtime and code generator leveraging the Model Context Protocol (MCP) to define agents, toolsets, and registries, handling everything from planning to durable execution.
 
-**Knowledge Graphs & Data Modeling**: go-typeql – A Go ORM for TypeDB 3.x. It maps graph schemas to Go structs, wrapping the Rust driver via CGo to deliver type-safe CRUD, query building, and schema migrations. (This powers the data architecture for my personal knowledge-graph project, Auto-K).
+**Knowledge Graphs & Data Modeling**: [go-typeql](https://github.com/CaliLuke/go-typeql) – A Go ORM for TypeDB 3.x. It maps graph schemas to Go structs, wrapping the Rust driver via CGo to deliver type-safe CRUD, query building, and schema migrations. (This powers the data architecture for my personal knowledge-graph project, Auto-K).
 
-**Token-Efficient Diagnostics**: remedy – A Go library for structured business errors. It packages HTTP status, machine-readable codes, and inline recovery guidance directly into the error, helping agentic systems self-correct without wasting tokens on follow-up retries.
+**Token-Efficient Diagnostics**: [remedy](https://github.com/CaliLuke/remedy) – A Go library for structured business errors. It packages HTTP status, machine-readable codes, and inline recovery guidance directly into the error, helping agentic systems self-correct without wasting tokens on follow-up retries.
 
 Infrastructure & Self-Hosting: Blacknas – A custom homelab for deploying, testing, and understanding local AI models, hardware, and network architecture in a sandboxed environment.
 
