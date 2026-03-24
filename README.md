@@ -6,7 +6,7 @@ Most of my hands-on work here revolves around prototyping, self-hosting models, 
 
 ## What I work on
 
-Applied AI & Knowledge Graphs: Building Auto-K, a personal knowledge-graph project to explore data relationships, memory, and practical LLM utility.
+Applied AI & Knowledge Graphs: Building [AutoK](https://www.autok.dev/), a personal knowledge-graph project to explore data relationships, memory, and practical LLM utility.
 
 Infrastructure & Self-Hosting: Running a custom homelab for deploying, testing, and understanding local AI models, hardware, and network architecture.
 
