@@ -8,7 +8,7 @@ Most of my hands-on work here revolves around prototyping, self-hosting models, 
 
 Applied AI & Knowledge Graphs: Building Auto-K, a personal knowledge-graph project to explore data relationships, memory, and practical LLM utility.
 
-Infrastructure & Self-Hosting: Running "Blacknas," a custom homelab for deploying, testing, and understanding local AI models, hardware, and network architecture.
+Infrastructure & Self-Hosting: Running a custom homelab for deploying, testing, and understanding local AI models, hardware, and network architecture.
 
 Rapid Prototyping: Writing code to validate product hypotheses, test API capabilities, and structure clearer, more grounded requirements for engineering teams.
 
