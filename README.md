@@ -12,6 +12,8 @@ Most of my hands-on work here revolves around prototyping, self-hosting models, 
 
 **Agentic Runtimes & Tooling**: [loom-mcp](https://github.com/CaliLuke/loom-mcp) – A runtime and code generator leveraging the Model Context Protocol (MCP) to define agents, toolsets, and registries, handling everything from planning to durable execution.
 
+**Agent Skills & Workflow Design**: [skills](https://github.com/CaliLuke/skills) – A growing collection of reusable agent skills for Claude Code and similar coding agents. It captures focused workflows for testing, refactoring, frontend cleanup, Go upgrade reviews, TypeDB/TypeQL, and SurrealDB to make agent behavior more specialized, reliable, and useful in real codebases.
+
 **Knowledge Graphs & Data Modeling**: [go-typeql](https://github.com/CaliLuke/go-typeql) – A Go ORM for TypeDB 3.x. It maps graph schemas to Go structs, wrapping the Rust driver via CGo to deliver type-safe CRUD, query building, and schema migrations. (This powers the data architecture for my personal knowledge-graph project, Auto-K).
 
 **Token-Efficient Diagnostics**: [remedy](https://github.com/CaliLuke/remedy) – A Go library for structured business errors. It packages HTTP status, machine-readable codes, and inline recovery guidance directly into the error, helping agentic systems self-correct without wasting tokens on follow-up retries.
@@ -26,4 +28,4 @@ Writing & Thinking: I document my projects, product frameworks, and strategic th
 
 Building: I'm an active maker outside of software, splitting my time between woodworking, 3D printing, and CNC machining.
 
-🌱 Whether you're building early-stage AI startups, experimenting with local LLMs, or tackling complex product strategy, I'm always open to connect and share input.
+🌱 Whether you're building early-stage AI startups, experimenting with local LLMs, or tackling complex product strategy, I'm always open to connect and [discuss how I can be helpful](https://www.luckymethod.com/contact).
